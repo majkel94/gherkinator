@@ -1,0 +1,4 @@
+click
+azure-devops
+python-dotenv
+beautifulsoup4
