@@ -15,6 +15,8 @@ For now, it is pretty lame. Trust me, I know.
 2. create virtualenv `python3 -m venv venv`
 3. activate virtualenv `venv/bin/activate`
 4. install requirements `pip3 install -r requirements.txt`
-5. run `gherkinator.py`
+5. create .env file and fill it with your credentials and organisation/project 
+   `cp .env.sample .env`
+6. run `gherkinator.py`
 
 
